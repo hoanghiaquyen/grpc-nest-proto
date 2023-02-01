@@ -1,0 +1,4 @@
+{
+  "editor.formatOnSave": true,
+  "clang-format.style": "{ IndentWidth: 4, BasedOnStyle: google, AlignConsecutiveAssignments: true }"
+}
