@@ -38,6 +38,6 @@ message ValidateRequest {
 
 message ValidateResponse {
     int32 status = 1;
-    repeated error = 2;
+    repeated string error = 2;
     int32 userId = 3;
 }
